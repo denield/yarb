@@ -1,5 +1,7 @@
 # YARB - Yet Another React Boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/denield/yarb.svg)](https://greenkeeper.io/)
+
 *Just as much as you need, nothing more, nothing less*
 
 ![Set it up in seconds](https://github.com/denield/yarb/raw/master/yarb.gif)
