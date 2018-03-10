@@ -1,7 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<App/> renders hello world 1`] = `
-<div>
-  Hello World
-</div>
+Array [
+  <h1>
+    Hello World
+  </h1>,
+  <div>
+    To break the app, click 
+    <a
+      href="#"
+      onClick={[Function]}
+    >
+      here
+    </a>
+  </div>,
+]
 `;

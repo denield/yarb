@@ -14,9 +14,9 @@ As simple as possible. You have everything you need to start to build and test. 
 
 - [React 16](https://reactjs.org/) (Front-end)
 - [Babel 7](https://babeljs.io/) ([preset-env](https://github.com/babel/babel/tree/master/packages/babel-preset-env), [preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react)) (Transpiler)
-- [Webpack 3](https://webpack.js.org/) (Module bundler)
+- [Webpack 4](https://webpack.js.org/) (Module bundler)
 - [Jest 22](https://facebook.github.io/jest/) (Unit test runner)
-- [Cypress 1.4](https://www.cypress.io/) (Integration test runner)
+- [Cypress 2.1](https://www.cypress.io/) (Integration test runner)
 
 The build size is 100KB (~33KB gzipped).
 

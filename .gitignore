@@ -67,3 +67,6 @@ cypress.env.json
 
 # build
 dist/
+
+# Visual Studio Code
+.vscode/
